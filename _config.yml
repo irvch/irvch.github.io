@@ -6,8 +6,6 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Irvin
 middle_name: 
 last_name: Chadraa
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 keywords: # add your own keywords or leave empty
@@ -62,14 +60,6 @@ max_width: 930px
 serve_og_meta: false # Include Open Graph meta tags in the HTML head
 serve_schema_org: false # Include Schema.org in the HTML head
 og_image: # The site-wide (default for all links) Open Graph preview image
-
-
-# -----------------------------------------------------------------------------
-# Social integration
-# -----------------------------------------------------------------------------
-github_username: irvch
-linkedin_username: irvch
-scholar_userid: 4LKnHqoAAAAJ
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
