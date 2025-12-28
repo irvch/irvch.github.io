@@ -12,7 +12,7 @@ profile:
 
 news: true
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 Hello there! I am a recent Mathematics MS graduate from [NYU Courant](https://math.nyu.edu/dynamic/) currently doing research with Profs. [Lerrel Pinto](https://www.lerrelpinto.com/), [Amine Aboussalah](https://quantumgeometricintelligence.com/people/amine-mohamed-aboussalah), and most recently [Ben Riviere](https://sites.google.com/view/riviere-robot-lab/home?authuser=0).
