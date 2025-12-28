@@ -1,12 +1,25 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: Materials for courses you taught. Replace this text with your description.
 nav: true
-nav_order: 6
+nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## New York University
 
-Organize your courses by years, topics, or universities, however you like!
+**VIP-GY 5000: Machine Learning and Time-Series Forecasting for Active Portfolio Management**  
+Fall 2024, Spring 2025
+
+**MA-UY 4444: Intro to Mathematical Modeling** 
+Fall 2023, Fall 2024
+
+**MA-UY 4434: Applied Complex Variables** 
+Spring 2024
+
+**MA-UY 4414: Applied Partial Differential Equations**
+Fall 2023
+
+
+Notes coming soon

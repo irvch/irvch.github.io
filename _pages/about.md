@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: "<a><strong>Contact:</strong></a> ic2184 [at] nyu.edu"
 
