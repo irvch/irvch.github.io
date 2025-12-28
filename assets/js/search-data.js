@@ -393,16 +393,16 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+      },{id: "news-graduated-ms-in-mathematics-from-nyu-courant",
+          title: 'Graduated MS in Mathematics from NYU Courant 🎓',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-announcement-2",
+          title: 'Announcement_2',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-presented-partial-optimal-transport-at-the-20th-3d-geoinfo-amp-amp-9th-sdsc-conference-in-japan",
+          title: 'Presented Partial Optimal Transport at the 20th 3D GeoInfo &amp;amp;amp; 9th SDSC Conference...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
