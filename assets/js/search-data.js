@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "Projects",
-          description: "A growing collection of your cool projects.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
         },{id: "nav-teaching",
           title: "Teaching",
           description: "Materials for courses you taught. Replace this text with your description.",
@@ -396,12 +389,10 @@ ninja.data = [{
       },{id: "news-graduated-ms-in-mathematics-from-nyu-courant",
           title: 'Graduated MS in Mathematics from NYU Courant 🎓',
           description: "",
-          section: "News",},{id: "news-announcement-2",
-          title: 'Announcement_2',
+          section: "News",},{id: "news-joined-grail-lab-under-prof-lerrel-pinto-and-kathy-zhou",
+          title: 'Joined GRAIL Lab under Prof. Lerrel Pinto and Kathy Zhou',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-presented-partial-optimal-transport-at-the-20th-3d-geoinfo-amp-amp-9th-sdsc-conference-in-japan",
+          section: "News",},{id: "news-presented-partial-optimal-transport-at-the-20th-3d-geoinfo-amp-amp-9th-sdsc-conference-in-japan",
           title: 'Presented Partial Optimal Transport at the 20th 3D GeoInfo &amp;amp;amp; 9th SDSC Conference...',
           description: "",
           section: "News",},{id: "news-joined-rrl-lab-under-prof-ben-riviere",
