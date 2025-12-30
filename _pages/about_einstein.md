@@ -1,4 +1,4 @@
-I am a recent Math MS graduate from [NYU Courant](https://math.nyu.edu/dynamic/) currently doing research with Profs. [Lerrel Pinto](https://www.lerrelpinto.com/), [Amine Aboussalah](https://quantumgeometricintelligence.com/people/amine-mohamed-aboussalah), and most recently [Ben Riviere](https://sites.google.com/view/riviere-robot-lab/home?authuser=0). 
+I am a recent Math MS graduate from [NYU Courant](https://math.nyu.edu/dynamic/) currently doing research with Profs. [Lerrel Pinto](https://www.lerrelpinto.com/), [Amine Aboussalah](https://quantumgeometricintelligence.com/people/amine-mohamed-aboussalah), and most recently [Ben Riviere](https://sites.google.com/view/riviere-robot-lab/home?authuser=0).
 
 I am interested in world models, reinforcement learning, and optimization. I am particularly motivated by how they can be applied to robotics and aerospace.
 
