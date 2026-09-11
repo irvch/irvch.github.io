@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined RRL Lab under Prof. [Ben Riviere](https://sites.google.com/view/riviere-robot-lab/home?authuser=0) 🚀
+Visiting RRL Lab under Prof. [Ben Riviere](https://sites.google.com/view/riviere-robot-lab/home?authuser=0) 🚀
