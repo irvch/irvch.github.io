@@ -395,8 +395,8 @@ ninja.data = [{
           section: "News",},{id: "news-presented-partial-optimal-transport-at-the-20th-3d-geoinfo-amp-amp-9th-sdsc-conference-in-japan",
           title: 'Presented Partial Optimal Transport at the 20th 3D GeoInfo &amp;amp;amp; 9th SDSC Conference...',
           description: "",
-          section: "News",},{id: "news-joined-rrl-lab-under-prof-ben-riviere",
-          title: 'Joined RRL Lab under Prof. Ben Riviere 🚀',
+          section: "News",},{id: "news-visiting-rrl-lab-under-prof-ben-riviere",
+          title: 'Visiting RRL Lab under Prof. Ben Riviere 🚀',
           description: "",
           section: "News",},{
         id: 'social-email',
